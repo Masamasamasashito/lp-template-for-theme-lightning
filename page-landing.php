@@ -1,6 +1,6 @@
 <?php
 /**
- * Template Name: For LP（手動でnoindexとサイトマップ外す）
+ * Template Name: For LP
  * Template Post Type: page
  * 
  * Made By Nissy 2025/7/4
